@@ -1,6 +1,6 @@
 # Predicting Airbnb Price Tiers from Photos, Text and Listing Details
 
-Multimodal Data Analysis — Project 2.2 (individual implementation) · Kunning (Ricardo) Liang · Group 19
+Multimodal Data Analysis — Project 2.2 (individual implementation) · Kunning Liang · Group 19
 
 Classify Melbourne Airbnb listings into **budget / mid-range / premium** (nightly-price tertiles) from three modalities and compare early, late and attention-based intermediate fusion against unimodal baselines.
 
