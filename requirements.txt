@@ -1,0 +1,14 @@
+# Tested target: Google Colab (Python 3.11+, T4 GPU). Colab already ships most of these.
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+pillow>=10.0
+requests>=2.31
+torch>=2.2
+torchvision>=0.17
+transformers>=4.40
+sentence-transformers>=2.7
+xgboost>=2.0
+spacy>=3.7   # + python -m spacy download en_core_web_sm (name masking)

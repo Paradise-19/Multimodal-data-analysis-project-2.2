@@ -1,0 +1,13 @@
+,true,pred,confidence,price_num,room_type,property_type,accommodates,bedrooms,neighbourhood_cleansed,number_of_reviews,image_used
+1346,premium,budget,0.9868787,1098.5,Private room,Private room in home,1,1.0,Manningham,1,True
+11008,mid-range,premium,0.9841101,282.04,Entire home/apt,Entire home,10,5.0,Wyndham,0,True
+14118,mid-range,budget,0.97424024,221.0,Private room,Private room in home,2,0.0,Manningham,0,True
+12727,mid-range,budget,0.96867025,289.0,Private room,Private room in home,2,1.0,Casey,0,True
+11681,mid-range,budget,0.96315247,205.0,Private room,Private room in home,2,1.0,Port Phillip,43,True
+2241,premium,budget,0.95246047,530.0,Private room,Private room in home,3,1.0,Melton,3,True
+2993,premium,budget,0.9511343,435.97,Private room,Private room in home,1,1.0,Glen Eira,0,True
+12931,mid-range,premium,0.94213605,311.5,Entire home/apt,Entire rental unit,6,3.0,Melbourne,6,True
+12442,mid-range,budget,0.9395393,258.0,Private room,Private room in home,2,1.0,Casey,31,True
+3080,mid-range,budget,0.9361213,248.0,Private room,Private room in home,2,1.0,Moonee Valley,0,True
+4601,mid-range,budget,0.9341871,300.0,Private room,Private room in home,2,1.0,Port Phillip,26,True
+4058,mid-range,budget,0.93365103,201.0,Private room,Private room in home,3,1.0,Yarra,38,True
